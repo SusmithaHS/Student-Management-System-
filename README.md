@@ -20,6 +20,7 @@ Build a basic Student Management System, that allows users to:
   - Deleting a student by ID
   - Exiting the program
 - Input handling using Java 'Scanner'.
+- Prevents duplicate student entries based on ID
 
   ## Output Sample
   -Sample o/p (https://github.com/SusmithaHS/Student-Management-System-/blob/main/image.jpg)
