@@ -22,4 +22,4 @@ Build a basic Student Management System, that allows users to:
 - Input handling using Java 'Scanner'.
 
   ## Output Sample
-  -Sample o/p (https://github.com/SusmithaHS/Student-Management-System-/upload/main)
+  -Sample o/p (https://github.com/SusmithaHS/Student-Management-System-/blob/main/image.jpg)
